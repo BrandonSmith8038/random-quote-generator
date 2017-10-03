@@ -1,0 +1,18 @@
+#quoteContent {
+    font-size: 35px;
+}
+
+#quoteAuthor{
+    font-size: 20px;
+}
+
+i.fa.fa-quote-left,
+i.fa.fa-quote-right {
+    font-size: 55px;
+    color: #4db6ac;
+}
+
+#quote-btn{
+    color: #4db6ac;
+    text-transform: uppercase;
+}
