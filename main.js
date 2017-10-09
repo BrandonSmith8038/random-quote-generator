@@ -1,4 +1,4 @@
-const url = 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=40';
+const url = 'https://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=40';
 
 const quoteBtn = document.getElementById('quote-btn');
 const twitterBtn = document.getElementById('twitter-btn');
